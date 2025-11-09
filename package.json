@@ -1,0 +1,28 @@
+{
+  "name": "sh-tech-labs",
+  "private": true,
+  "version": "0.0.0",
+  "description": "S&H Tech Labs – AI Dental Health Platform",
+  "type": "module",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [
+    "ai",
+    "dental-health",
+    "healthcare",
+    "react",
+    "vite",
+    "typescript"
+  ],
+  "author": "S&H Tech Labs",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/sh-tech-labs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/sh-tech-labs/issues"
+  },
+  "homepage": "https://github.com/yourusername/sh-tech-labs#readme"
+}
