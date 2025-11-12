@@ -22,7 +22,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 -->
 
-# S&H Tech Labs – AI Dental Health Platform
+# AI-Powered-Dental-Analysis-APP
 
 ## Overview
 
